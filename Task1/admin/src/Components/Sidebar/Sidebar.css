@@ -1,0 +1,16 @@
+.Sidebar{
+    display:flex;
+    flex-direction: column;
+    padding-top: 30px;
+    gap:20px;
+    width: 20%;
+    max-width: 100vh;
+    height: 100vh;
+    background: rgb(234, 135, 135);
+    color: #000000;text-decoration: none;
+}
+.sidebar-item{
+    padding :60px;
+    margin-top: 50px;
+    
+}
